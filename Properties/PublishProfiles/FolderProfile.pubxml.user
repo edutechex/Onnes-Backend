@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Admin\Downloads\Onnes-Backend-main\Onnes-Backend-main\Onnes\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-11-24T12:22:08.5078266Z;True|2023-11-16T10:44:19.3145622+05:30;True|2023-11-15T18:30:55.6430361+05:30;True|2023-11-15T17:57:51.7211993+05:30;True|2023-11-15T16:14:41.1838945+05:30;True|2023-11-13T17:35:06.0914776+05:30;True|2023-11-13T15:41:46.3994285+05:30;True|2023-11-13T15:41:36.0221356+05:30;True|2023-11-10T10:19:17.3307780+05:30;True|2023-11-10T10:19:05.7208677+05:30;True|2023-11-09T12:37:47.8925072+05:30;True|2023-11-08T17:26:31.7166235+05:30;True|2023-11-08T17:26:19.4931268+05:30;True|2023-11-08T15:57:06.6927882+05:30;True|2023-11-08T13:23:38.9307157+05:30;True|2023-11-07T15:31:16.7336750+05:30;True|2023-11-06T14:23:18.9687017+05:30;True|2023-11-06T12:57:37.6471952+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
